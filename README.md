@@ -10,11 +10,11 @@ This repository hosts a comprehensive Data Analysis and Business Intelligence (B
 **🛠️ Technology Stack**
 | Category | Tool / Language | Purpose |
 | :--- | :--- | :--- |
-| **Data Collection** | Python (Inferred) | Web scraping codes for gathering raw data. |
-| **Data Preprocessing**| **Jupyter Notebook (Python/Pandas)** | Data cleaning, transformation, and feature engineering. |
-| **Business Intelligence**| **Microsoft Power BI** (`.pbix` files) | Final data modeling, dashboard design, and visualization. |
-| **Data Modeling** | **DAX** (Data Analysis Expressions) | Creating custom measures and calculated columns for deep analysis. |
-| **Data Storage** | CSV, JSON | Raw and processed data storage formats. |
+| Data Collection | Python (Inferred) | Web scraping codes for gathering raw data. |
+| Data Preprocessing | Jupyter Notebook (Python/Pandas) | Data cleaning, transformation, and feature engineering. |
+| Business Intelligence | Microsoft Power BI (`.pbix` files) | Final data modeling, dashboard design, and visualization. |
+| Data Modeling | DAX (Data Analysis Expressions) | Creating custom measures and calculated columns for deep analysis. |
+| Data Storage | CSV, JSON | Raw and processed data storage formats. |
 
 **⚙️ Setup and Installation**
 Prerequisites
